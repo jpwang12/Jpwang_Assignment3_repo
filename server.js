@@ -502,7 +502,6 @@ function logOut(request, response){
 
 }
 
-//COME BACK TO THIS  
 
 function sha256(inputPass) {
     const hash = crypto.createHash('sha256');
