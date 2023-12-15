@@ -1,0 +1,126 @@
+[
+	{  
+	"type":"card",
+	"card": "pokeball",  
+	"price": 9.99,  
+	"image": "/images/pokeball.jpg",
+	"qty_available": 50
+	},
+	{ 
+	"type": "card",
+	"card": "greatball",  
+	"price": 19.99,  
+	"image": "/images/greatball.jpg",
+	"qty_available": 50
+	},
+	{  
+	"type": "card",
+	"card": "ultraball",  
+	"price": 29.99,  
+	"image": "/images/ultraball.jpg",
+	"qty_available": 50
+	},
+	{  
+	"type": "card",
+	"card": "quickball",  
+	"price": 39.99,  
+	"image": "/images/quickball.jpg",
+	"qty_available": 50
+	},
+	{  
+	"type": "card",
+	"card": "healball",  
+	"price": 39.99,  
+	"image": "/images/healball.jpg",
+	"qty_available": 50
+	},
+
+  
+	{
+	"type":"box",
+	"card": "potion",
+	"price": 9.99,
+	"image": "/images/potion.png",
+	"qty_available": 30
+	},
+	{
+	"type":"box",
+	"card": "superpotion",
+	"price": 19.99,
+	"image": "/images/superpotion.png",
+	"qty_available": 30
+	},
+	{
+	"type":"box",
+	"card": "hyperpotion",
+	"price": 29.99,
+	"image": "/images/hyperpotion.png",
+	"qty_available": 30
+	},
+	{
+	"type":"box",
+	"card": "maxpotion",
+	"price": 39.99,
+	"image": "/images/maxpotion.png",
+	"qty_available": 30
+	},
+	{
+	"type":"box",
+	"card": "fullrestore",
+	"price": 49.99,
+	"image": "/images/fullrestore.png",
+	"qty_available": 30
+	},
+	{
+	"type":"box",
+	"card": "fullheal",
+	"price": 29.99,
+	"image": "/images/fullheal.png",
+	"qty_available": 30
+	},
+
+
+	{
+	"type":"mat",
+	"card": "leafstone",
+	"price": 49.99,
+	"image": "/images/leafstone.png",
+	"qty_available": 20
+	},
+	{
+	"type":"mat",
+	"card": "waterstone",
+	"price": 49.99,
+	"image": "/images/waterstone.png",
+	"qty_available": 20
+	},
+	{
+	"type":"mat",
+	"card": "firestone",
+	"price": 49.99,
+	"image": "/images/firestone.png",
+	"qty_available": 20
+	},
+	{
+	"type":"mat",
+	"card": "thunderstone",
+	"price": 49.99,
+	"image": "/images/thunderstone.png",
+	"qty_available": 20
+	},
+	{
+	"type":"mat",
+	"card": "sunstone",
+	"price": 49.99,
+	"image": "/images/sunstone.png",
+	"qty_available": 20
+	},
+	{
+	"type":"mat",
+	"card": "moonstone",
+	"price": 49.99,
+	"image": "/images/moonstone.png",
+	"qty_available": 20
+	}
+
+]
