@@ -8,7 +8,7 @@ let type = 'card';
 error = params.get('error');
 
 //gets store name for redirect
-let storeName = 'product_display';
+let storeName = 'products_display';
 document.getElementById('storeName').value += storeName;
 
 //gets params from cookies stored, if logged in, replace sign in with sign out
